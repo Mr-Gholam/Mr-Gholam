@@ -1,7 +1,7 @@
 # Hi there, I'm Mehdi!👋
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Gholam&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Gholam&theme=dark&hide_border=false) </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Gholam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
