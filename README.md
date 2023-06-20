@@ -9,4 +9,3 @@
 
 
 
-vless://95409d38-d1a2-4234-b653-6d82f27d040d@h.huntex1.fun:52028?path=%2F&security=tls&encryption=none&type=ws&sni=h.huntex1.fun#Mehdi
